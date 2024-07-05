@@ -75,7 +75,7 @@ TABLE OF CONTENTS
 The information provided when using the Services is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Services from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
 
 
-We offer drone services in accordance with all FAA requirements pertaining to Part 107 certificated drone piloting. The user agrees to pay an agreed upon amount within 30 days once drone services have been completed. Drone services have been considered completed once Nimbus sends digital files (images and videos, edited or unedited depending on project requirements) via an online file transfer service such as Google Drive.
+We offer drone services in accordance with all FAA requirements pertaining to Part 107 certificated drone piloting, as well as local and state laws. The user agrees to pay an agreed upon amount within 30 days once drone services have been completed. Drone services have been considered completed once Nimbus sends digital files (images and videos, edited or unedited depending on project requirements) via an online file transfer service such as Google Drive.
 
 
 2. INTELLECTUAL PROPERTY RIGHTS
